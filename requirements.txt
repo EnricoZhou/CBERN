@@ -1,0 +1,8 @@
+scikit-learn==1.3.2
+scipy==1.11.3
+torch==2.0.1
+tensorflow==2.12.0  # Replace keras with tensorflow
+transformers==4.34.0
+pandas==2.1.1
+tqdm==4.66.1
+numpy==1.26.0
